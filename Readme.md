@@ -6,7 +6,7 @@ applied to classical engineering design optimization problems
 
 # project Structure :
 hybrid/
-├── sphere/ 
+├── sphere/
 │ ├── Jaya.py
 │ ├── Rao1.py
 │ ├── Rao2.py
@@ -15,7 +15,7 @@ hybrid/
 │ ├── Jaya-Rao2.py
 │ └── Jaya-Rao3.py
 │
-├── Gear_Train/ 
+├── Gear_Train/
 │ ├── Jaya.py
 │ ├── Rao1.py
 │ ├── Rao2.py
@@ -24,7 +24,7 @@ hybrid/
 │ ├── Jaya-Rao2.py
 │ └── Jaya-Rao3.py
 │
-├── Pressurevessel/ 
+├── Pressurevessel/
 │ ├── Jaya.py
 │ ├── Rao1.py
 │ ├── Rao2.py
@@ -33,7 +33,7 @@ hybrid/
 │ ├── Jaya-Rao2.py
 │ └── Jaya-Rao3.py
 │
-├── speedreducer/ 
+├── speedreducer/
 │ ├── jaya.py
 │ ├── rao1.py
 │ ├── rao2.py
@@ -42,8 +42,8 @@ hybrid/
 │ ├── jaya-rao2.py
 │ └── jaya-rao3.py
 │
-├── .gitignore 
-└── README.md 
+├── .gitignore
+└── README.md
 
 # Dependencies :
 Python3
@@ -54,5 +54,6 @@ pandas
 Jaya Algorithm
 Rao Algorithms: Rao-1, Rao-2, Rao-3
 Hybrid Jaya-Rao: Jaya-Rao1, Jaya-Rao2, Jaya-Rao3
+
 
 
