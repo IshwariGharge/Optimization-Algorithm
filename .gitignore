@@ -1,0 +1,11 @@
+# Excel results
+*.xlsx
+
+# VS Code settings
+.vscode/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
